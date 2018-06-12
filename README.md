@@ -1,4 +1,5 @@
 # Kickstart
+* [Kickstarter Crowdfunding Essential Training](https://www.linkedin.com/learning/kickstarter-crowdfunding-essential-training)
 
 ## CLI
 * npm init - generate package.json
