@@ -9,3 +9,6 @@
 * npm install --save truffle-hdwallet-provider
 
 https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
+
+## Truffle
+* npm install truffle-hdwallet-provider
