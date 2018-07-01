@@ -14,7 +14,7 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 * npm install truffle-hdwallet-provider
 
 ## Campaign Contract
-**Variables** | Variables | ___ 
+**Variables** | - | - 
 --- | --- | ---
 *manager* | `address` | address of the person who is managing the campaign
 1 | 2 | 3
