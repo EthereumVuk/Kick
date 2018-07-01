@@ -16,5 +16,5 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 ## Campaign Contract
 **Variables** | Variables | Variables 
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*manager* | `address` | address of the person who is managing the campaign
 1 | 2 | 3
