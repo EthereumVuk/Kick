@@ -17,4 +17,5 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 **Variables** | - | - 
 --- | --- | ---
 *manager* | `address` | address of the person who is managing the campaign
-1 | 2 | 3
+minimumContribution | `uint` | Min donation required to be considered a contributor or `approver`
+approvers | `address[]` | List of addresses for every person who has donated money
