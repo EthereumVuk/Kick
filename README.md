@@ -16,6 +16,6 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 ## Campaign Contract
 **Variables** | - | - 
 --- | --- | ---
-*manager* | `address` | address of the person who is managing the campaign
-minimumContribution | `uint` | Min donation required to be considered a contributor or `approver`
-approvers | `address[]` | List of addresses for every person who has donated money
+**manager** | `address` | address of the person who is managing the campaign
+**minimumContribution** | `uint` | Min donation required to be considered a contributor or `approver`
+**approvers** | `address[]` | List of addresses for every person who has donated money
