@@ -23,3 +23,10 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 **requests** | `Request[]` | List of requests that the manager has created.
 
 ### Functions
+Functions | - | -
+--- | --- | ---
+**Campaign** | Constructor function that sets the minimumContribution and the owner
+**contribute** | Called when someone wants to donate money to the campaign and become 'approver'
+**createRequest** | Called by the manager to create a new `spending request`
+**approveRequest** | Called by each contributor to approve a spending request
+**finalizeRequest** | After a request has gotten enough approvals, the manager can call this to get money sent to the vendor
