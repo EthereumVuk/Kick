@@ -12,3 +12,9 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 
 ## Truffle
 * npm install truffle-hdwallet-provider
+
+## Campaign Contract
+**Variables** |  | 
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
