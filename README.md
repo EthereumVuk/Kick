@@ -1,6 +1,6 @@
 # Kickstart
 * [Kickstarter Crowdfunding Essential Training](https://www.linkedin.com/learning/kickstarter-crowdfunding-essential-training)
-
+* [Types](http://solidity.readthedocs.io/en/v0.4.24/types.html)
 ## CLI
 * npm init - generate package.json
 * npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-beta.26 
