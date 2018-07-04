@@ -38,6 +38,6 @@ Functions | - | -
 **Name** | Notes | Examples 
 --- | --- | ---
 **fixed array** | Array that contains a single type of element.  It has an unchanging length. | int[3] --> [1,2,3], bool[2] --> [true, false]
-**minimumContribution** | `uint` | Min donation required to be considered a contributor or `approver`
-**approvers** | `address[]` | List of addresses for every person who has donated money
+**dynamic array** | Array that contains a single type of element.  Over time it can change in size. | int[] --> [1,2,3], bool[] --> [true, false]
+**mapping** | Collection of key value pairs.  Think of Javascript object, Ruby hashes, or Python dictionary.  All keys must be of the same type and all value must be of the same type. | mapping(string => string), mapping(int => bool)
 **requests** | `Request[]` | List of requests that the manager has created.
