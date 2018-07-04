@@ -19,7 +19,7 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 --- | --- | ---
 **manager** | `address` | address of the person who is managing the campaign
 **minimumContribution** | `uint` | Min donation required to be considered a contributor or `approver`
-**approvers** | `address[]` | List of addresses for every person who has donated money
+**approvers** | `mapping` | List of addresses for every person who has donated money
 **requests** | `Request[]` | List of requests that the manager has created.
 
 ### Functions
@@ -30,6 +30,17 @@ Functions | - | -
 **createRequest** | Called by the manager to create a new `spending request`
 **approveRequest** | Called by each contributor to approve a spending request
 **finalizeRequest** | After a request has gotten enough approvals, the manager can call this to get money sent to the vendor
+
+### Struct
+**Request Struct** | - | - 
+--- | --- | ---
+**description** | string | Purpose of request.
+**amount** | uint | Ether to transfer.
+**recipient** | address | Who gets the money.
+**complete** | bool | Whether the request is done.
+**approvals** | mapping | Track who has voted.
+**approvalCount** | uint | Track number of approvals.
+
 
 ## Variables
 * [Units and Globally Available Variables](http://solidity.readthedocs.io/en/v0.4.24/units-and-global-variables.html)
