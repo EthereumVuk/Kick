@@ -33,3 +33,11 @@ Functions | - | -
 
 ## Variables
 * [Units and Globally Available Variables](http://solidity.readthedocs.io/en/v0.4.24/units-and-global-variables.html)
+
+## Reference Types
+**Name** | Notes | Examples 
+--- | --- | ---
+**fixed array** | Array that contains a single type of element.  It has an unchanging length. | int[3] --> [1,2,3], bool[2] --> [true, false]
+**minimumContribution** | `uint` | Min donation required to be considered a contributor or `approver`
+**approvers** | `address[]` | List of addresses for every person who has donated money
+**requests** | `Request[]` | List of requests that the manager has created.
