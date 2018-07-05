@@ -7,6 +7,8 @@ contract Campaign {
         uint value;
         address recipient;
         bool complete;
+        uint approvalCount;
+        mapping(address => bool) approvals;
     }
 
     // variables
@@ -38,9 +40,29 @@ contract Campaign {
             description: description, 
             value: value,
             recipient: recipient,
-            complete: false
+            complete: false,
+            approvalCount: 0
         });
 
         request.push(newRequest);
+    }
+
+    function approveRequest(uint index) {
+        Request storage request = requests[index];
+
+        require(approvers[msg.sender]);
+        require(!request.approvals[msg.sender]);
+
+        request.approvals[msg.sender] = true;
+        request.approvalCount++;
+    }
+
+    function finalizeRequest(uint index) public restricted {
+        // capital R specifies that we are creating a variable that is going to refer to the Request struct
+        Request storage request = requests[index];
+        
+        require(!request.complete);
+
+        request.complete = true;
     }
 }
