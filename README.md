@@ -7,6 +7,13 @@
 * ethereum (folder)
   * contracts (folder)
     * Campaign.sol
+  * compile.js
+  * deploy.js
+* node_modules (folder)
+* .gitignore
+* package-lock.json
+* package.json
+  
 
 ## CLI
 * npm init - generate package.json
