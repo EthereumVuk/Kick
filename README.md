@@ -72,3 +72,6 @@ Functions | - | -
 **dynamic array** | Array that contains a single type of element.  Over time it can change in size. | int[] --> [1,2,3], bool[] --> [true, false]
 **mapping** | Collection of key value pairs.  Think of Javascript object, Ruby hashes, or Python dictionary.  All keys must be of the same type and all value must be of the same type. | mapping(string => string), mapping(int => bool)
 **struct** | Collection of key value pairs that can have different types. | Struct Car{string make; string model; unit value;}
+
+## Test
+* npm run test
