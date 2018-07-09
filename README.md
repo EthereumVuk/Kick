@@ -12,8 +12,7 @@
 * node_modules (folder)
 * .gitignore
 * package-lock.json
-* package.json
-  
+* package.json  
 
 ## CLI
 * npm init - generate package.json
