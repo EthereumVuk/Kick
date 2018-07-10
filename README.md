@@ -31,7 +31,7 @@ Here's how I successfully upgraded from v0.8.18 to v0.10.20 without any other re
 https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 
 ## Truffle
-* npm install truffle-hdwallet-provider
+* npm install --save truffle-hdwallet-provider
 
 ## Campaign Contract
 ### Variables
