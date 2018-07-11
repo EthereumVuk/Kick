@@ -75,3 +75,7 @@ Functions | - | -
 
 ## Test
 * npm run test
+
+## Next.js
+### Installation
+* npm install --save next@4.1.4 react react-dom
