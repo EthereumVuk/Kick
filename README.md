@@ -80,3 +80,6 @@ Functions | - | -
 ## Next.js
 ### Installation
 * npm install --save next@4.1.4 react react-dom
+
+## Run Server
+* npm run dev
