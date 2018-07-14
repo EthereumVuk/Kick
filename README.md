@@ -83,3 +83,6 @@ Functions | - | -
 
 ## Run Server
 * npm run dev
+
+## Semantic UI React
+* npm-install --save semantic-ui-react
