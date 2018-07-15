@@ -85,5 +85,6 @@ Functions | - | -
 * npm run dev
 
 ## Semantic UI React
-* npm-install --save semantic-ui-react
+* npm install --save semantic-ui-react
+* npm install --save semantic-ui-css
 * [Semantic UI React](https://react.semantic-ui.com/introduction)
