@@ -3,6 +3,7 @@
 * [Types](http://solidity.readthedocs.io/en/v0.4.24/types.html)
 * [DialogFlow Github](https://github.com/dialogflow)
 * [Compile.js](https://github.com/noel22/kickstart8/blob/master/ethereum/compile.js)
+* [Kickstart Project Report](https://github.com/rja907/CryptoBill/blob/master/Project%20Report.pdf)
 
 ## Folder Directory
 ### kickstart
