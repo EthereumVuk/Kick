@@ -2,6 +2,7 @@
 * [Kickstarter Crowdfunding Essential Training](https://www.linkedin.com/learning/kickstarter-crowdfunding-essential-training)
 * [Types](http://solidity.readthedocs.io/en/v0.4.24/types.html)
 * [DialogFlow Github](https://github.com/dialogflow)
+* [Compile.js](https://github.com/noel22/kickstart8/blob/master/ethereum/compile.js)
 
 ## Folder Directory
 ### kickstart
