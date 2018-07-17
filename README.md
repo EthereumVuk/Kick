@@ -77,6 +77,9 @@ Functions | - | -
 **mapping** | Collection of key value pairs.  Think of Javascript object, Ruby hashes, or Python dictionary.  All keys must be of the same type and all value must be of the same type. | mapping(string => string), mapping(int => bool)
 **struct** | Collection of key value pairs that can have different types. | Struct Car{string make; string model; unit value;}
 
+## Install 
+npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-beta.26
+
 ## Test
 * npm run test
 
