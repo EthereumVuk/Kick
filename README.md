@@ -96,3 +96,6 @@ npm install --save ganache-cli mocha solc fs-extra web3@1.0.0-beta.26
 * npm install --save semantic-ui-react
 * npm install --save semantic-ui-css
 * [Semantic UI React](https://react.semantic-ui.com/introduction)
+
+## JSX
+* [Babel Repl](http://babeljs.io/repl/)
