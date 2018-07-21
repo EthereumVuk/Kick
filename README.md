@@ -28,6 +28,7 @@ Here's how I successfully upgraded from v0.8.18 to v0.10.20 without any other re
 * sudo npm cache clean -f (force) clear you npm cache
 * sudo npm install -g n install "n" (this might take a while)
 * sudo n stable upgrade to lastest version
+* npm start
 
 ## Infura
 * npm install --save truffle-hdwallet-provider
