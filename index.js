@@ -12,7 +12,7 @@ class CampaignIndex extends Component {
     // with a static keyword this method is not assigned to an instance of a class 
     // instead the function is assigned to the class itself
     static async getInitialProps() {
-        const campaigns = await factory.methods.getDeployedCampaings().call();
+        const campaigns = await factory.methods.getDeployedCampaigns().call();
 
         return { campaigns }; 
     }
