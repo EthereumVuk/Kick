@@ -42,6 +42,11 @@ https://rinkeby.infura.io/3kA8ESeQXjRLadxqbhvB
 
 ## Truffle
 * npm install --save truffle-hdwallet-provider
+### Update:  
+* npm uninstall ethereumjs-wallet
+* npm uninstall truffle-hdwallet-provider
+* npm install --save ethereumjs-wallet@0.6.0
+* npm install --save truffle-hdwallet-provider@0.0.3
 
 ## Campaign Contract
 ### Variables
