@@ -8,9 +8,14 @@
 * [HTML Formatter](https://www.freeformatter.com/)
 * [Diagrams](https://www.draw.io/)
 ##
-https://github.com/CrowdArt/next-routes
-https://stackoverflow.com/questions/36527490/error-using-async-await-in-react-native/36532046#36532046
-https://semantic-ui.com/collections/menu.html#menu
+* https://github.com/CrowdArt/next-routes
+* https://stackoverflow.com/questions/36527490/error-using-async-await-in-react-native/36532046#36532046
+* https://semantic-ui.com/collections/menu.html#menu
+* https://github.com/MetaMask/faq/blob/master/detecting_metamask.md#web3-deprecation
+* https://react.semantic-ui.com/elements/divider/
+* https://www.fullstackreact.com/articles/deploying-a-react-app-with-a-server/
+* https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
+* https://ipfs.io/docs/install/
 
 ## Folder Directory
 ### kickstart
