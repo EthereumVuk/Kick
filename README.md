@@ -7,6 +7,7 @@
 * [Solidity Creating Contracts](https://github.com/rja907/CryptoBill/blob/master/Project%20Report.pdf)
 * [HTML Formatter](https://www.freeformatter.com/)
 * [Diagrams](https://www.draw.io/)
+* [Pitch Deck](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
 ##
 * https://github.com/CrowdArt/next-routes
 * https://stackoverflow.com/questions/36527490/error-using-async-await-in-react-native/36532046#36532046
