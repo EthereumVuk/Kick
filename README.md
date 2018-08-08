@@ -9,7 +9,7 @@
 * [Diagrams](https://www.draw.io/)
 * [Pitch Deck](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck)
 ##
-* https://github.com/CrowdArt/next-routes
+* [Next Routes](https://github.com/CrowdArt/next-routes)
 * https://stackoverflow.com/questions/36527490/error-using-async-await-in-react-native/36532046#36532046
 * https://semantic-ui.com/collections/menu.html#menu
 * https://github.com/MetaMask/faq/blob/master/detecting_metamask.md#web3-deprecation
