@@ -136,3 +136,6 @@ Calling a function on a different contract (instance) will perform an EVM functi
 ## Router
 * [Next Routes](https://github.com/fridays/next-routes)
 * npm install --save next-routes
+
+## Functions
+* Anytime you call a function submit it into a Try/Catch statement
