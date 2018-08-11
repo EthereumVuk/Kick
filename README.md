@@ -139,3 +139,4 @@ Calling a function on a different contract (instance) will perform an EVM functi
 
 ## Functions
 * Anytime you call a function submit it into a Try/Catch statement
+* `static async getInitialProps(props){}` - fetched the address of the campaign
