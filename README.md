@@ -140,4 +140,9 @@ Calling a function on a different contract (instance) will perform an EVM functi
 ## Functions
 * Anytime you call a function submit it into a Try/Catch statement
 * `static async getInitialProps(props){}` - fetches the address of the campaign
-* Does solidity support arrays of structs?
+### Does solidity support arrays of structs?
+```solidity
+function getAllRequests() public view returns (Request[]) {
+  return requests;
+}
+```
